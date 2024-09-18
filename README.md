@@ -4,7 +4,7 @@
 
 - I’m currently learning everything 
 - I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more WebDevelopment
+- 🥅 2024 Goals: Learn more Backend Development
 - ⚡ Fun fact: I love to reed books and play games
 
 <br />
