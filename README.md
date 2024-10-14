@@ -7,11 +7,9 @@
 - 🥅 2024 Goals: Learn more Backend Development
 - ⚡ Fun fact: I love to reed books and play games
 
----
+### Github Stats
 
 [![Federico Taborda GitHub stats](https://github-readme-stats.vercel.app/api?username=Federico-Taborda)](https://github.com/Federico-Taborda/github-readme-stats)
-
----
 
 ### Languages and Tools:
 
@@ -25,8 +23,6 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -35,5 +31,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sites.google.com/view/ft-devblog/inicio)
-
----
